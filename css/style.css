@@ -12,7 +12,7 @@ body{
     nav{
        background-color: #60BD54;
         padding: 0px 40px 0px 40px;
-        margin: 10px 10px;
+        margin: 5px 10px;
     }
     nav p{
         text-align: center;
@@ -38,4 +38,11 @@ main figure{
 font-family: 'Inconsolata', monospace;
 text-align: center;
 }
+    main h4{
+        font-family:'Bebas Neue', cursive;
+        font-family: 'Inconsolata', monospace;
+        text-align: center;
+        font-weight: bold;
+
+    }
 
